@@ -1,0 +1,65 @@
+body {
+    background-image: url("https://d194ip2226q57d.cloudfront.net/images/Renaissance-Fair_Shutterstock.original.jpg");
+}
+
+h1 {
+  font-size: 60px;
+  background-color: rgb(51, 139, 44);  
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  color:bisque;
+}
+
+nav {
+    background-color: bisque;
+    padding: 15px;
+}
+
+a {
+    color: rgb(51, 139, 44);
+    font-size: 25px;
+    margin-right: 70px;
+}
+
+h3 {
+    background-color: rgb(51, 139, 44);
+    width:647px;
+    font-size: 35px;
+    text-align: center;
+    color: bisque;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+}
+
+#upcomingEvents {
+    background-color: bisque;
+    width:280px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#eventsHeader {
+    background-color: rgb(51, 139, 44);
+    width: fit-content;
+    margin-left: 35px;
+    padding: 5px;
+    color:bisque
+}
+
+#upcomingEvents, #calendarTable {
+    display: inline-block;
+    vertical-align: top;
+}    
+
+table, th, td, caption {
+    border: 2px solid;
+    background-color: bisque;
+}
+
+table {
+    height: 280px;
+    margin-left: 20px;
+}
